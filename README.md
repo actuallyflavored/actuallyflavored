@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @actuallyflavored
-- 👀 I’m interested in biotechnology, astrobiology, medicine sciences, and environmental science.
-- 🌱 I’m currently studying B.S. Nursing and I am learning C++ 
+- 👋 Hi, I’m @actuallyflavored aka Tucker DeCosta
+- 👀 I’m interested in biotechnology, medical sciences, and environmental science.
+- 🌱 B.S. Medical Biology & Public Health | University of New England
 - 💞️ I’m looking to collaborate on innovative health care or astronomy projects
 - 📫 How to reach me baysideinvestmentco@gmail.com
 - 😄 Pronouns: He/Him
